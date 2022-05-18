@@ -1,20 +1,6 @@
 [
     {
         "nome": "Pedro",
-        "data": "17/04/1978",
-        "sexo": "masculino",
-        "estado": "grave"
-    },
-    {
-        "nome": "joana",
-        "data": "08/07/2001",
-        "sexo": "feminino",
-        "estado": "estavel"
-    },
-    {
-        "nome": "italo",
-        "data": "14/02/1988",
-        "sexo": "masculino",
-        "estado": "grave"
+        "id": ""
     }
 ]
